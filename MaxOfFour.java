@@ -34,5 +34,6 @@ public class MaxOfFour {
              if (c>a & c>b & c>b)
              {System.out.println(c);}
 
-    return (a);}
+        return (a);
+    }
 }

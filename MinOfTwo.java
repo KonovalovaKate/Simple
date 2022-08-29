@@ -19,9 +19,9 @@ public class MinOfTwo {
 
     private static void printMinOfTwo(int a, int b) {
         //Implement me
-        if (a>b) {
-            System.out.println(b);}
-        else {
+        if (a > b) {
+            System.out.println(b);
+        } else {
             System.out.println(a);
         }
 

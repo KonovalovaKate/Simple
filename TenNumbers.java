@@ -7,9 +7,10 @@ public class TenNumbers {
     Print numbers from 1 to 10
     using loop while
      */
-    int i = 1;
+        int i = 1;
         while (i <= 10) {
-        System.out.println(i);
-        i++;
+            System.out.println(i);
+            i++;
+        }
+    }
 }
-    }}

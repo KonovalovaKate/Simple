@@ -20,10 +20,10 @@ public class CompareNames {
 
     private static void printComparisonNameResult(String firstName, String secondName) {
         //Implement me
-        if (firstName!=secondName&&(firstName.length()==secondName.length()))
-        {System.out.println("Length of names are the same");}
-        if (firstName==secondName)
-        {
+        if (firstName != secondName && (firstName.length() == secondName.length())) {
+            System.out.println("Length of names are the same");
+        }
+        if (firstName == secondName) {
             System.out.println("Names are the same");
         }
     }

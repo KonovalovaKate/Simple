@@ -11,13 +11,13 @@ public class MultiplicationTable {
     3  6  9 12 15 18 21 24 27 30
      */
     public static void main(String[] args) {
-        for(
-        int i = 1;
-        i < 10; i++){
-            for(int k = 1; k < 11; k++){
+        for (
+                int i = 1;
+                i < 10; i++) {
+            for (int k = 1; k < 11; k++) {
                 System.out.print(k * i + "  ");
             }
             System.out.println("");
         }
-        }
+    }
 }
