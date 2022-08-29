@@ -22,5 +22,11 @@ public class SortOfThree {
         if (a > b & b > c) {
             System.out.println(a +" " +b +" "+c);
         }
+        if (b > a & a > c) {
+            System.out.println(b +" " +a +" "+c);
+        }
+        if (c > a & a > b) {
+            System.out.println(c +" " +a +" "+b);
+        }
     }
 }
