@@ -7,7 +7,7 @@ public class EvenNumbers {
     print even number from 1 to 100 include
     from new line
      */
-    for (int i = 0; i < 100; i++) {
+    for (int i = 1; i < 101; i++) {
         System.out.println(i);
     }
 }}
