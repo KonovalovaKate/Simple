@@ -1,6 +1,10 @@
 package com.test.homework.array;
 
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.Scanner;
+
+import static java.lang.System.*;
 
 public class MaxOf20 {
     /*
@@ -13,31 +17,24 @@ public class MaxOf20 {
     public static void main(String[] args) {
         int[] array = initializeArray();
         int maxNumber = max(array);
-        System.out.println(maxNumber);
+        out.println(maxNumber);
     }
 
     private static int[] initializeArray() {
         // implement me
-        Scanner input = new Scanner(System.in);
-        System.out.println("Enter 20 numbers:");
+        Scanner input = new Scanner(in);
+        out.println("Enter 20 numbers:");
         int[] array = new int[20];
-        or (int i = 0; i < 20; i++) {
+        for (int i = 0; i < array.length; i++)
             array[i] = input.nextInt(); // Заполняем массив элементами, введёнными с клавиатуры
-        }
-        return new int[0];
+        return array;
     }
 
     private static int max(int[] array) {
         // implement me
-        int maxNum = array[0];
-
-        for (int j : array) {
-            if (j > maxNum)
-                maxNum = j;
-        }
-
-        System.out.println("Maximum number = " + maxNum);
+        Arrays.sort(array);
+        return array[array.length - 1];
     }
-        return 0;
-    }
+
+
 }
