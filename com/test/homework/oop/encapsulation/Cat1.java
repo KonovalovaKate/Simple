@@ -17,11 +17,11 @@ public class Cat1 {
         return color;
     }
 
-    public void setName(String newName) {
-        this.name = newName; // name or newName?
+    public void setName(String name) {
+        this.name = name; // name or newName?
     }
 
-    public void setAge(int newAge) {
-        this.age = newAge;
+    public void setAge(int age) {
+        this.age = age;
     }
 }
