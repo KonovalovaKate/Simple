@@ -5,13 +5,16 @@ package com.test.homework.oop.polymorphism;
     And prints to the console one of the names: "Cat", "Dog", "Bird", "Lamp".
     */
 
+import java.util.Scanner;
+
 public class Solution4 {
     public static void main(String[] args) {
         printObjectType(new Cat());
         printObjectType(new Bird());
         printObjectType(new Lamp());
-        printObjectType(new Cat());
         printObjectType(new Dog());
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter class");
     }
 
     public static void printObjectType(Object o) {
