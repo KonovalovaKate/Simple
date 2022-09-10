@@ -20,6 +20,8 @@ public class Solution1 {
     }
 
     public static class Whale extends Cow {
-
+        public String getName() {
+            return "I'm not cow, I'm whale.";
+        }
     }
 }
