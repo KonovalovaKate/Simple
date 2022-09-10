@@ -7,6 +7,13 @@ abstract class Animal {
     public void name() {
         System.out.println("Animal:");
     }
+
+    public static void main(String[] args) {
+        Cow myCow = new Cow(); // Create a Cow object
+        myCow.name();
+        myCow.animalName();
+
+    }
 }
 
 // Subclass (inherit from Animal)
@@ -17,11 +24,5 @@ class Cow extends Animal {
     }
 }
 
-class Main {
-    public static void main(String[] args) {
-        Cow myPig = new Cow(); // Create a Cow object
-        myPig.name();
-        myPig.animalName();
 
-    }
-}
+
