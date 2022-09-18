@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31d4acd5-68c3-48b8-969e-cb160f1d68ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/cars/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/cars/car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/inheritance/pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/inheritance/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/interfaces/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/interfaces/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/array/DivideArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/array/MaxOf20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/array/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/array/TwoArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/classes/Cat1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/for_loop/EvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/for_loop/PrintRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/for_loop/PrintRightTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/if_else/CompareNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/if_else/MaxOfFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/if_else/MinOfTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/if_else/SortOfThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/abstract_classes/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/abstract_classes/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/abstract_classes/Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/abstract_classes/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/abstract_classes/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/encapsulation/Cat1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/encapsulation/Cat2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/encapsulation/Cat3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/inheritance/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/inheritance/bull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/inheritance/cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/inheritance/cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/inheritance/dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/inheritance/goat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/inheritance/horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/inheritance/pegas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/inheritance/pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/inheritance/pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/inheritance/sheep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/interfaces/Bug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/interfaces/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution1$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution1$Whale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution2$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution2$Whale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution3$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution3$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution3$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution4$Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution4$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution4$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution4$Lamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/oop/polymorphism/Solution4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/while_loop/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/while_loop/PrintStringNTimes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/while_loop/SSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/while_loop/TenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Simple/com/test/homework/while_loop/TenNumbersReverse.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EimKiMCe0gAhBIMvwYz0Mzbbcj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Dream Store/IdeaProjects/Simple"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31d4acd5-68c3-48b8-969e-cb160f1d68ce" name="Changes" comment="" />
+      <created>1663086716841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663086716841</updated>
+    </task>
+    <servers />
+  </component>
+</project>

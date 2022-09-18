@@ -9,10 +9,12 @@ public class Main {
 
         }
         Alphabet[] values = Alphabet.values();
+
         for (int i=0; i< values.length; i++ ){
             Alphabet value = values[i];
 
             System.out.println(values[i] +"-"+value.getLetterPosition());
         }
     }
+
 }
