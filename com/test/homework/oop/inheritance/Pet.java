@@ -1,5 +1,5 @@
 package com.test.homework.oop.inheritance;
-public class pet {
+public class Pet {
     protected String animal = "Animal";
     public void honk() {
         System.out.println("Animals:");
@@ -15,12 +15,12 @@ public class pet {
     }
 }
 
-class cat extends pet {
+class cat extends Pet {
     String petName = "Cat";
 
 
     }
-class dog extends pet {
+class dog extends Pet {
     String petName2 = "Dog";
 
 

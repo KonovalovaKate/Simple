@@ -8,6 +8,7 @@ public class Solution1 {
      */
     public static void main(String[] args) {
 
+
     }
 
     public enum Alphabet {
@@ -18,7 +19,11 @@ public class Solution1 {
         U, V, W, X, Y, Z;
 
         int getLetterPosition() {
+
+
             return 0;
+
         }
+
     }
 }
